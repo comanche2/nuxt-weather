@@ -1,6 +1,6 @@
 # nuxt-weather [![Build Status](https://travis-ci.com/vladbu/nuxt-weather.svg?branch=master)](https://travis-ci.com/vladbu/nuxt-weather)
 
-[Demo](https://vladbu.github.io/nuxt-weather/)
+[Demo](https://comanche2.github.io/nuxt-weather/)
 
 * uses Vue + Nuxt
 * uses SSR
